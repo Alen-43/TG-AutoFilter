@@ -187,7 +187,7 @@ async def imdb_callback(bot: Client, quer_y: CallbackQuery):
             release_date = imdb['release_date'],
             year = imdb['year'],
             genres = imdb['genres'],
-            poster = imdb['poster'],
+            poster = https://ftl.deekshith.eu.org/watch/AgADgr89636
             plot = imdb['plot'],
             rating = imdb['rating'],
             url = imdb['url'],
